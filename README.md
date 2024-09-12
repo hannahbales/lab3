@@ -2,23 +2,11 @@
 
 ## Overview
 
-TODO: Write a project description
+In this project, we were tasked with taking the content for the homepage of a bird watching website and adding structural elements to it so it could have a page layout applied to it.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+SheCodes: photos to grid
+https://www.shecodes.io/athena/39603-how-to-place-an-image-inside-a-grid-box-in-css#:~:text=You%20can%20give%20it%20the,container%20using%20the%20img%20tag.&text=Here%2C%20the%20img%20tag%20with,second%20row%20of%20the%20grid.
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+ChatGPT: random questions and troubleshooting
